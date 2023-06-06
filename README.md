@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pearredo
-- 👀 I’m interested in becoming a software engineer, but I am open to most jobs that work with CS students
+-   Recent Graduate looking to become a software engineer
 - 🌱 I’m currently learning to mess with APIs for personal projects
 - 💞️ I’m looking to collaborate on any project because I am not picky on what to work on (might change in the future)
 - 📫 How to reach me p3dvvr@gmail.com
